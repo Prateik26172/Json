@@ -1,0 +1,6 @@
+lib/
+include/
+Scripts/
+pyvenv.cfg/
+share/
+_MACOSX/
